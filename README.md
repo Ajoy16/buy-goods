@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <Br>
-## Ecomarce Website 
+## Ecommerce website 
 <br>
 ## Live website Link: https://glittering-toffee-bd3952.netlify.app
 
